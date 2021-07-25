@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "olychkam mern",
+  "mongoUri": "mongodb+srv://olychkam:formulka202@cluster0.8ljx8.mongodb.net/app?retryWrites=true&w=majority"
+}
